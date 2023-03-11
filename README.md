@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dan.alferez1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=dan.alferez1@gmail.com)](dan.alferez1@gmail.com)
 
 - 🔭 I’m currently working on something amazing
-- 📫 Know more about me: [Portfolio](https://daniel.netlify.app)
+- 📫 Know more about me: [Portfolio](https://netlify.app)
 - ⚡ Fun fact: I am always learning
 
 ## My knowledge
