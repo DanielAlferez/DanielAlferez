@@ -44,8 +44,8 @@
 <a href="https://github.com/DanielAlferez/Backend_Maria_Montessori">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAlferez&repo=Backend_Maria_Montessori&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/DanielAlferez/Fronted-Dentistore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAlferez&repo=Fronted-Dentistore&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DanielAlferez/Frontend-Dentistore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAlferez&repo=Frontend-Dentistore&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 
