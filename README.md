@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on something amazing
-- 📫 Know more about me: [![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-informational?style=flat-square&logo=google-chrome&logoColor=white&link=https://danielalferez.netlify.app/)](https://danielalferez.netlify.app/)
+- 📫 Know more about me: [![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-informational?style=flat-square&logo=google-chrome&logoColor=white&link=https://danielalferez.netlify.app/)
 
 - ⚡ Fun fact: I am always learning
 
