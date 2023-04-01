@@ -1,11 +1,11 @@
 # Hi there, I'm Daniel Alferez 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-DanielAlferez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)](https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)
-![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/DanielAlferez)
+[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/DanielAlferez)](https://t.me/DanielAlferez)
 
 
 - 🔭 I’m currently working on something amazing
-- 📫 Know more about me: [![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-informational?style=flat-square&logo=google-chrome&logoColor=white&link=https://danielalferez.netlify.app/)
+- 📫 Know more about me: [![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-informational?style=flat-square&logo=google-chrome&logoColor=white&link=https://danielalferez.netlify.app/)](https://danielalferez.netlify.app/)
 
 - ⚡ Fun fact: I am always learning
 
