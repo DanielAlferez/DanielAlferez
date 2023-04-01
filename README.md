@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Alferez 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-DanielAlferez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)](https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)
+[![Linkedin Badge](https://img.shields.io/badge/-DanielAlferez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DanielAlferez/)](https://www.linkedin.com/in/DanielAlferez/)
 [![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/DanielAlferez)](https://t.me/DanielAlferez)
 
 
