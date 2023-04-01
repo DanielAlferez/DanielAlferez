@@ -1,10 +1,12 @@
 # Hi there, I'm Daniel Alferez 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-DanielAlferez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)](https://www.linkedin.com/in/daniel-camilo-alf%C3%A9rez-garc%C3%ADa-639786255/)
-[![Gmail Badge](https://img.shields.io/badge/-dan.alferez1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=dan.alferez1@gmail.com)](dan.alferez1@gmail.com)
+![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/TuUsuarioDeTelegram)
+
 
 - 🔭 I’m currently working on something amazing
-- 📫 Know more about me: [Portfolio](https://netlify.app)
+- 📫 Know more about me: [![Portfolio](https://img.shields.io/badge/-Visit%20my%20portfolio-informational?style=flat-square&logo=google-chrome&logoColor=white&link=YOUR_WEBSITE_URL_HERE)](YOUR_WEBSITE_URL_HERE)
+
 - ⚡ Fun fact: I am always learning
 
 ## My knowledge
