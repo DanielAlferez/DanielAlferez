@@ -44,6 +44,9 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
 ![Railway](https://img.shields.io/badge/-Railway-363636?style=flat-square&logo=railway&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white)
+
+
 
 
 ## &#x1f4c8; GitHub Stats
